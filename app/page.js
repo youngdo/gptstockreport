@@ -1,7 +1,16 @@
+"use client"
 import Link from 'next/link';
+import { useEffect } from 'react';
+
 import "/app/globals.css";
 
 export default function Home() {
+  useEffect(() => {
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-9ZEBL0ZMYJ');
+  }, []);
+
   return (
     <div>
       <strong className="title">GPT STOCK REPORTS</strong>

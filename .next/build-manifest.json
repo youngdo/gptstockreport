@@ -1,159 +1,49 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+    "static/chunks/polyfills.js"
   ],
-  "devFiles": [],
+  "devFiles": [
+    "static/chunks/react-refresh.js"
+  ],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/uU0Si9tk1Gsy519K3Yoij/_buildManifest.js",
-    "static/uU0Si9tk1Gsy519K3Yoij/_ssgManifest.js"
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js"
   ],
   "rootMainFiles": [
-    "static/chunks/webpack-cb86a99cd2f791d1.js",
-    "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
-    "static/chunks/23-b75664ace61c0abb.js",
-    "static/chunks/main-app-94ed04bf73fb1a3d.js"
+    "static/chunks/webpack.js",
+    "static/chunks/main-app.js"
   ],
   "pages": {
     "/20240716/Alphabet": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Alphabet-65b19fee50d25e02.js"
-    ],
-    "/20240716/Amazon": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Amazon-423c28c9e7a64efb.js"
-    ],
-    "/20240716/Apple": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Apple-0e57a67c76604a92.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/20240716/Alphabet.js"
     ],
     "/20240716/Cisco": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Cisco-d9e3d950ccb471c6.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/20240716/Cisco.js"
     ],
     "/20240716/CocaCola": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/CocaCola-7245bcd95a5e8ecc.js"
-    ],
-    "/20240716/Facebook": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Facebook-e58ee37b8db3a7b6.js"
-    ],
-    "/20240716/Intel": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Intel-2b170533aa1a4d4a.js"
-    ],
-    "/20240716/Johnson": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Johnson-f6498a57b6e4ec02.js"
-    ],
-    "/20240716/Mastercard": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Mastercard-97b904da9945daf7.js"
-    ],
-    "/20240716/McDonald": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/McDonald-50c89a5d18e3d447.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/20240716/CocaCola.js"
     ],
     "/20240716/Microsoft": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Microsoft-4e7dae91b3e70dda.js"
-    ],
-    "/20240716/Procter": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Procter-5303e0143e12c5db.js"
-    ],
-    "/20240716/Tesla": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Tesla-aefc322f5861b1d8.js"
-    ],
-    "/20240716/ThreeM": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/ThreeM-67ad040b4e0826c8.js"
-    ],
-    "/20240716/Visa": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Visa-86c49108e715fe2b.js"
-    ],
-    "/20240716/template": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/996-680c5cd014aa47c3.js",
-      "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/template-f84096e87616bcb0.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/20240716/Microsoft.js"
     ],
     "/_app": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/pages/_app-6a626577ffa902a4.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_app.js"
     ],
     "/_error": [
-      "static/chunks/webpack-cb86a99cd2f791d1.js",
-      "static/chunks/framework-0a6578e7d17324c5.js",
-      "static/chunks/main-487359b0156206bf.js",
-      "static/chunks/pages/_error-1be831200e60c5c0.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
     ]
   },
   "ampFirstPages": []
