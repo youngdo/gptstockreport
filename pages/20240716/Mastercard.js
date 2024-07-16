@@ -9,6 +9,7 @@ export default function Mastercard() {
       <Head>
         <title>Mastercard Stock Report | gptstockreport</title>
         <meta name="description" content="Mastercard stock report for 2024.07.16, including fraud prevention, cross-border fee caps, and social initiatives." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

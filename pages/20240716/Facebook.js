@@ -9,6 +9,7 @@ export default function Facebook() {
       <Head>
         <title>Facebook Stock Report | gptstockreport</title>
         <meta name="description" content="Facebook stock report for 2024.07.16, including EU scrutiny, Trump account updates, and breaking news features." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

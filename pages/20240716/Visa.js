@@ -9,6 +9,7 @@ export default function Visa() {
       <Head>
         <title>Visa Stock Report | gptstockreport</title>
         <meta name="description" content="Visa stock report for 2024.07.16, including U.S. visa simplification, innovation focus, and global growth." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

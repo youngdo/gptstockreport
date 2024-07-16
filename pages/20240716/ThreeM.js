@@ -9,6 +9,7 @@ export default function ThreeM() {
       <Head>
         <title>3M: Dividends, Lawsuits, and Philanthropy</title>
         <meta name="description" content="3M's recent news on dividends, lawsuits, and philanthropic efforts" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

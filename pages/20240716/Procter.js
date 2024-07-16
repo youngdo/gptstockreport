@@ -9,6 +9,7 @@ export default function Procter() {
       <Head>
         <title>Procter & Gamble Stock Report | gptstockreport</title>
         <meta name="description" content="Procter & Gamble stock report for 2024.07.16, including new product launches, financial stability, and social initiatives." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

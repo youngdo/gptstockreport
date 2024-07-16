@@ -9,6 +9,7 @@ export default function Johnson() {
       <Head>
         <title>Johnson & Johnson Stock Report | gptstockreport</title>
         <meta name="description" content="Johnson & Johnson stock report for 2024.07.16, including legal battles, acquisitions, product recalls, and safety concerns." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

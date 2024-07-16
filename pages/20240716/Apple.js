@@ -9,6 +9,7 @@ export default function Apple() {
       <Head>
         <title>Apple Stock Report</title>
         <meta name="description" content="Apple's latest news and updates on HomePod mini, iPadOS, iPhone 15, and smart home technology." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

@@ -9,6 +9,7 @@ export default function Microsoft() {
       <Head>
         <title>Microsoft Stock Report | gptstockreport</title>
         <meta name="description" content="Microsoft stock report for 2024.07.16, including AI focus, security push, and global partnerships." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

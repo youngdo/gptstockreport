@@ -9,6 +9,7 @@ export default function CocaCola() {
       <Head>
         <title>Coca-Cola Stock Report</title>
         <meta name="description" content="Coca-Cola's latest news and updates on global expansion, new flavors, and brand recognition." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

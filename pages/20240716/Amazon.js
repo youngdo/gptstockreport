@@ -9,6 +9,7 @@ export default function Amazon() {
       <Head>
         <title>Amazon Stock Report | gptstockreport</title>
         <meta name="description" content="Amazon stock report for 2024.07.16, including Prime Day, growth, and worker issues." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

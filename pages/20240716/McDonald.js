@@ -9,6 +9,7 @@ export default function McDonald() {
       <Head>
         <title>McDonald's Stock Report | gptstockreport</title>
         <meta name="description" content="McDonald's stock report for 2024.07.16, including price hikes, value menus, legal battles, and safety concerns." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

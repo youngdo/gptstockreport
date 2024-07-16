@@ -9,6 +9,7 @@ export default function Cisco() {
       <Head>
         <title>Cisco Systems: AI Investments, Security Focus, and Partnerships</title>
         <meta name="description" content="Cisco Systems' recent news highlights their focus on AI, security, and partnerships." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

@@ -9,6 +9,7 @@ export default function Intel() {
       <Head>
         <title>Intel Stock Report | gptstockreport</title>
         <meta name="description" content="Intel stock report for 2024.07.16, including financial reporting, innovation focus, and market challenges." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

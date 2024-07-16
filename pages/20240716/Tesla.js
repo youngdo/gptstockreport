@@ -9,6 +9,7 @@ export default function Tesla() {
       <Head>
         <title>Tesla Stock Report | gptstockreport</title>
         <meta name="description" content="Tesla stock report for 2024.07.16, including market analysis and insights." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>
