@@ -1,9 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/20240716/Alphabet": "pages/20240716/Alphabet.js",
-  "/20240716/CocaCola": "pages/20240716/CocaCola.js",
-  "/20240716/Cisco": "pages/20240716/Cisco.js",
-  "/20240716/Microsoft": "pages/20240716/Microsoft.js"
-}
+{"/_error":"pages/_error.js","/_app":"pages/_app.js","/20240716/Apple":"pages/20240716/Apple.html","/20240716/Alphabet":"pages/20240716/Alphabet.html","/20240716/Amazon":"pages/20240716/Amazon.html","/20240716/Facebook":"pages/20240716/Facebook.html","/20240716/Cisco":"pages/20240716/Cisco.html","/20240716/CocaCola":"pages/20240716/CocaCola.html","/20240716/Intel":"pages/20240716/Intel.html","/20240716/Johnson":"pages/20240716/Johnson.html","/20240716/Mastercard":"pages/20240716/Mastercard.html","/20240716/McDonald":"pages/20240716/McDonald.html","/20240716/Procter":"pages/20240716/Procter.html","/20240716/Microsoft":"pages/20240716/Microsoft.html","/20240716/Tesla":"pages/20240716/Tesla.html","/20240716/ThreeM":"pages/20240716/ThreeM.html","/20240716/template":"pages/20240716/template.html","/20240716/Visa":"pages/20240716/Visa.html","/_document":"pages/_document.js","/404":"pages/404.html"}
