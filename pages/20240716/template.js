@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Link from 'next/link';
 import "/app/globals.css";
 import Head from 'next/head';

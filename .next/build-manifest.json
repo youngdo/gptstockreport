@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/SZb6Hcx1HGoG_C30GTuZ-/_buildManifest.js",
-    "static/SZb6Hcx1HGoG_C30GTuZ-/_ssgManifest.js"
+    "static/w_ERk8NxSzU9KG0BBkAT7/_buildManifest.js",
+    "static/w_ERk8NxSzU9KG0BBkAT7/_ssgManifest.js"
   ],
   "rootMainFiles": [
     "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -21,7 +21,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Alphabet-67d50ae4e6277af7.js"
+      "static/chunks/pages/20240716/Alphabet-d8a77c76e7e148dd.js"
     ],
     "/20240716/Amazon": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -29,7 +29,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Amazon-de75cd5292510540.js"
+      "static/chunks/pages/20240716/Amazon-081363fe1c4a741b.js"
     ],
     "/20240716/Apple": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -37,7 +37,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Apple-101ee54e0a863171.js"
+      "static/chunks/pages/20240716/Apple-880fdec4d4c2ec05.js"
     ],
     "/20240716/Cisco": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -45,7 +45,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Cisco-cbeec1033ee1f1ab.js"
+      "static/chunks/pages/20240716/Cisco-55549945d84d62fa.js"
     ],
     "/20240716/CocaCola": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -53,7 +53,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/CocaCola-33b31558e1641330.js"
+      "static/chunks/pages/20240716/CocaCola-4acb2aa80ad8ae40.js"
     ],
     "/20240716/Facebook": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -61,7 +61,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Facebook-4ab7c247c7d3559d.js"
+      "static/chunks/pages/20240716/Facebook-1519ab3db634fddd.js"
     ],
     "/20240716/Intel": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -69,7 +69,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Intel-94d509c3685d5c20.js"
+      "static/chunks/pages/20240716/Intel-d382b78e9ce86878.js"
     ],
     "/20240716/Johnson": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -77,7 +77,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Johnson-12537adf399988e1.js"
+      "static/chunks/pages/20240716/Johnson-e2e5836240780f2d.js"
     ],
     "/20240716/Mastercard": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -85,7 +85,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Mastercard-a45233cef634e7c9.js"
+      "static/chunks/pages/20240716/Mastercard-031ee1a6bfa95a2a.js"
     ],
     "/20240716/McDonald": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -93,7 +93,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/McDonald-cd2644833fd84360.js"
+      "static/chunks/pages/20240716/McDonald-e0d15a6005fc27a5.js"
     ],
     "/20240716/Microsoft": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -101,7 +101,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Microsoft-2fca128abc94226a.js"
+      "static/chunks/pages/20240716/Microsoft-30eaa80ac005f7d5.js"
     ],
     "/20240716/Procter": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -109,7 +109,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Procter-b8178938a8fe54e3.js"
+      "static/chunks/pages/20240716/Procter-10d839258452fd3a.js"
     ],
     "/20240716/Tesla": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -117,7 +117,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Tesla-5348f957855b721e.js"
+      "static/chunks/pages/20240716/Tesla-fcdd8259f4c58b3d.js"
     ],
     "/20240716/ThreeM": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -125,7 +125,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/ThreeM-47af44cb86daa24a.js"
+      "static/chunks/pages/20240716/ThreeM-51a3cd2ecfdf532b.js"
     ],
     "/20240716/Visa": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -133,7 +133,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/Visa-8b475405508256bc.js"
+      "static/chunks/pages/20240716/Visa-ae788ead109da591.js"
     ],
     "/20240716/template": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",
@@ -141,7 +141,7 @@
       "static/chunks/main-9cf72cadeb4806a2.js",
       "static/chunks/996-2db6e80f118517f7.js",
       "static/css/502d1de06ff9e528.css",
-      "static/chunks/pages/20240716/template-2ef9973b8b4b795a.js"
+      "static/chunks/pages/20240716/template-bf55e478b893b24f.js"
     ],
     "/_app": [
       "static/chunks/webpack-cb86a99cd2f791d1.js",

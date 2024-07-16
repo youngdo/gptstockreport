@@ -1,17 +1,20 @@
-import React from 'react';
+"use client"
+import React, { useEffect } from 'react';
 import Link from 'next/link';
 import "/app/globals.css";
 import Head from 'next/head';
-import { useEffect } from 'react';
 
 export default function Alphabet() {
   useEffect(() => {
     setTimeout(()=>{
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
       gtag('config', 'G-9ZEBL0ZMYJ');
     },200)
   }, []);
+
   return (
     <div>
       <Head>

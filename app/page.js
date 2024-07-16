@@ -6,9 +6,13 @@ import "/app/globals.css";
 
 export default function Home() {
   useEffect(() => {
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-9ZEBL0ZMYJ');
+    setTimeout(()=>{
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'G-9ZEBL0ZMYJ');
+    },200)
   }, []);
 
   return (
