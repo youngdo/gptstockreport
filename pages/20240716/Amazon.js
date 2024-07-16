@@ -10,7 +10,7 @@ export default function Amazon() {
         <title>Amazon Stock Report | gptstockreport</title>
         <meta name="description" content="Amazon stock report for 2024.07.16, including Prime Day, growth, and worker issues." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Amazon in the News: Prime Day, Growth, and Worker Issues</h1>
         <h2>Prime Day Deals and Shopping Trends:</h2>

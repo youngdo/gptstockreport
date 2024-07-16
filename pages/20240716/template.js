@@ -10,7 +10,7 @@ export default function Amazon() {
         <title></title>
         <meta name="description" content="" />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         
       </section>

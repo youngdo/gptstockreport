@@ -10,7 +10,7 @@ export default function Mastercard() {
         <title>Mastercard Stock Report | gptstockreport</title>
         <meta name="description" content="Mastercard stock report for 2024.07.16, including fraud prevention, cross-border fee caps, and social initiatives." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Mastercard: Fraud Prevention, Cross-Border Fee Caps, and Social Initiatives</h1>
         <p>Mastercard's recent news highlights their focus on several key areas:</p>

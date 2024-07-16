@@ -10,7 +10,7 @@ export default function Johnson() {
         <title>Johnson & Johnson Stock Report | gptstockreport</title>
         <meta name="description" content="Johnson & Johnson stock report for 2024.07.16, including legal battles, acquisitions, product recalls, and safety concerns." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Johnson & Johnson: Legal Battles, Acquisitions, and Product Recalls</h1>
         <h2>Legal Issues:</h2>

@@ -10,7 +10,7 @@ export default function Apple() {
         <title>Apple Stock Report</title>
         <meta name="description" content="Apple's latest news and updates on HomePod mini, iPadOS, iPhone 15, and smart home technology." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Apple: HomePod Mini Expansion, Developer Updates, and iPhone Rumors</h1>
         <h2>New Product and Color Option:</h2>

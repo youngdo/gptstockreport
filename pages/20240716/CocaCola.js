@@ -10,7 +10,7 @@ export default function CocaCola() {
         <title>Coca-Cola Stock Report</title>
         <meta name="description" content="Coca-Cola's latest news and updates on global expansion, new flavors, and brand recognition." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Coca-Cola: Global Expansion, New Flavors, and Brand Recognition</h1>
         <h2>Market Expansion and New Products:</h2>

@@ -10,7 +10,7 @@ export default function Alphabet() {
         <title>Alphabet Stock Report | gptstockreport</title>
         <meta name="description" content="Alphabet stock report for 2024.07.16, including new CFO, AI concerns, and legal battles." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Alphabet in the News: New CFO, AI Concerns, and Legal Battles</h1>
         <h2>Leadership and Finance:</h2>

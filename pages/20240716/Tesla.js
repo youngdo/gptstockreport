@@ -10,7 +10,7 @@ export default function Tesla() {
         <title>Tesla Stock Report | gptstockreport</title>
         <meta name="description" content="Tesla stock report for 2024.07.16, including market analysis and insights." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
           <h1>Tesla Stock: Rebounding After Robotaxi Delay? (2024.07.16)</h1>
           <p>Tesla (TSLA) stock is on the rise today, after a rough week that saw it dip following news of a delayed robotaxi event. As of yesterday's close, the stock is up 1.78% from its opening price, currently sitting at $252.64.</p>

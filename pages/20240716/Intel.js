@@ -10,7 +10,7 @@ export default function Intel() {
         <title>Intel Stock Report | gptstockreport</title>
         <meta name="description" content="Intel stock report for 2024.07.16, including financial reporting, innovation focus, and market challenges." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Intel: Financial Reporting, Innovation Focus, and Market Challenges</h1>
         <p>Information based on publicly available sources as of July 16, 2024</p>

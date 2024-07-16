@@ -10,7 +10,7 @@ export default function Procter() {
         <title>Procter & Gamble Stock Report | gptstockreport</title>
         <meta name="description" content="Procter & Gamble stock report for 2024.07.16, including new product launches, financial stability, and social initiatives." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Procter & Gamble: New Products, Dividends, and Supporting Families</h1>
         <p>As of July 16, 2024, Procter & Gamble's (P&G) recent news highlights a mix of product launches, financial stability, and social initiatives.</p>

@@ -10,7 +10,7 @@ export default function Visa() {
         <title>Visa Stock Report | gptstockreport</title>
         <meta name="description" content="Visa stock report for 2024.07.16, including U.S. visa simplification, innovation focus, and global growth." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Visa: Streamlining U.S. Visas, Innovation Focus, and Global Growth</h1>
         <p>Visa's recent news highlights their efforts in:</p>

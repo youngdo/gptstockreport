@@ -10,7 +10,7 @@ export default function Cisco() {
         <title>Cisco Systems: AI Investments, Security Focus, and Partnerships</title>
         <meta name="description" content="Cisco Systems' recent news highlights their focus on AI, security, and partnerships." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Cisco Systems: AI Investments, Security Focus, and Partnerships</h1>
         <h2>AI Focus and Investment:</h2>

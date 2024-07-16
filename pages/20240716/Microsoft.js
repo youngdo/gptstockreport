@@ -10,7 +10,7 @@ export default function Microsoft() {
         <title>Microsoft Stock Report | gptstockreport</title>
         <meta name="description" content="Microsoft stock report for 2024.07.16, including AI focus, security push, and global partnerships." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Microsoft: AI Focus, Security Push, and Global Partnerships</h1>
         <h2>Artificial Intelligence (AI)</h2>

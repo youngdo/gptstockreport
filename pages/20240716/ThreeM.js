@@ -10,7 +10,7 @@ export default function ThreeM() {
         <title>3M: Dividends, Lawsuits, and Philanthropy</title>
         <meta name="description" content="3M's recent news on dividends, lawsuits, and philanthropic efforts" />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>3M: Dividends, Lawsuits, and Philanthropy</h1>
         <h2>Financials and Shareholders:</h2>

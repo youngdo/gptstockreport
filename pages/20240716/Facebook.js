@@ -10,7 +10,7 @@ export default function Facebook() {
         <title>Facebook Stock Report | gptstockreport</title>
         <meta name="description" content="Facebook stock report for 2024.07.16, including EU scrutiny, Trump account updates, and breaking news features." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>Facebook: EU Scrutiny, Trump Account Update, and Breaking News Focus</h1>
         <h2>EU Scrutiny and Policy Changes</h2>

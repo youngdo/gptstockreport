@@ -10,7 +10,7 @@ export default function McDonald() {
         <title>McDonald's Stock Report | gptstockreport</title>
         <meta name="description" content="McDonald's stock report for 2024.07.16, including price hikes, value menus, legal battles, and safety concerns." />
       </Head>
-      <Link href="/" className="back">back</Link>
+      <Link href="/" className="back">Home</Link>
       <section>
         <h1>McDonald's: Price Hikes, Value Menus, and Legal Battles</h1>
         <p>McDonald's recent news highlights the company's efforts to navigate inflation, competition, and legal issues.</p>
