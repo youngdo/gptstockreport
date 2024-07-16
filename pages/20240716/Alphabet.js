@@ -2,13 +2,22 @@ import React from 'react';
 import Link from 'next/link';
 import "/app/globals.css";
 import Head from 'next/head';
+import { useEffect } from 'react';
 
 export default function Alphabet() {
+  useEffect(() => {
+    setTimeout(()=>{
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9ZEBL0ZMYJ');
+    },200)
+  }, []);
   return (
     <div>
       <Head>
         <title>Alphabet Stock Report | gptstockreport</title>
         <meta name="description" content="Alphabet stock report for 2024.07.16, including new CFO, AI concerns, and legal battles." />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
       </Head>
       <Link href="/" className="back">Home</Link>
       <section>

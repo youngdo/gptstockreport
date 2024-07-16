@@ -10,7 +10,6 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZEBL0ZMYJ"></script>
-        <script async src="log.js"></script>
       </head>
       <body>{children}</body>
     </html>
